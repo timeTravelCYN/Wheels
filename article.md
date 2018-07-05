@@ -29,3 +29,7 @@
 [前端面试指南](https://zhuanlan.zhihu.com/p/25859524)
 
 [25 个最基本的 JavaScript 面试问题及答案](http://web.jobbole.com/92323/)
+ 
+## webpack && 打包原理
+ 
+[打包工具的配置教程见的多了，但它们的运行原理你知道吗？](https://juejin.im/entry/5b223ebd518825748b569bda) 

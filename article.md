@@ -19,3 +19,13 @@
 ## 漫前端泛谈
 
 [[杂谈]了解一些额外知识，让前端开发锦上添花](https://segmentfault.com/a/1190000015374552)
+
+## 面试
+
+[最经典的前端面试题之一，你能答出什么幺蛾子？](https://zhuanlan.zhihu.com/p/28946087)
+
+[从这两套题，重新认识JS的this、作用域、闭包、对象](https://juejin.im/post/59aa71d56fb9a0248d24fae3?utm_source=wechat&from=singlemessage&isappinstalled=0)
+
+[前端面试指南](https://zhuanlan.zhihu.com/p/25859524)
+
+[25 个最基本的 JavaScript 面试问题及答案](http://web.jobbole.com/92323/)

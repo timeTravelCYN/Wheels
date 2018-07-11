@@ -14,6 +14,8 @@
 - [x] 小程序
 - [x] KOA && Node
 - [x] WordPress
+- [x] Web Worker
+- [x] IndexDB
 
 ## 其他能力
 

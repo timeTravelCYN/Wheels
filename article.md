@@ -38,3 +38,7 @@
 
 ## CSS
 [CSS世界中那些说起来很冷的知识](https://juejin.im/post/5b406f40e51d45194832b759)
+
+
+## Web Worker
+[Web Worker 使用教程](http://www.ruanyifeng.com/blog/2018/07/web-worker.html)

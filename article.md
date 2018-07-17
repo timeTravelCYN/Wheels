@@ -29,7 +29,22 @@
 [前端面试指南](https://zhuanlan.zhihu.com/p/25859524)
 
 [25 个最基本的 JavaScript 面试问题及答案](http://web.jobbole.com/92323/)
+
+[前端程序员经常忽视的一个JavaScript面试题](https://github.com/Wscats/Good-text-Share/issues/85)
+
+[new与属性访问的顺序，从一道JS面试题说起](https://www.cnblogs.com/zhansu/p/6641190.html)
+
+[总结了17年初到18年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
  
 ## webpack && 打包原理
  
 [打包工具的配置教程见的多了，但它们的运行原理你知道吗？](https://juejin.im/entry/5b223ebd518825748b569bda) 
+
+[手把手教你撸一个简易的 webpack](https://zhuanlan.zhihu.com/p/37864523)
+
+## CSS
+[CSS世界中那些说起来很冷的知识](https://juejin.im/post/5b406f40e51d45194832b759)
+
+
+## Web Worker
+[Web Worker 使用教程](http://www.ruanyifeng.com/blog/2018/07/web-worker.html)

@@ -51,6 +51,7 @@ function defineReactive(obj, key, val) {
     configurable: true,
     get: function reactiveGetter() {
       console.log('get value')
+      console.log(Dep.target)
       // 此处添加新增依赖代码
       if (Dep.target) {
         dp.addSub(Dep.target)
@@ -66,7 +67,7 @@ function defineReactive(obj, key, val) {
   })
 }
 
-var data = { name: 'yck' }
-observe(data)
-new Watcher(data, 'name', update)
-data.name = 'yyy' // -> change value
+var data123 = { name: 'yck' }
+observe(data123)
+new Watcher(data123, 'name', update)
+data123.name = 'yyy' // -> change value

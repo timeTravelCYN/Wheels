@@ -35,6 +35,7 @@
 [new与属性访问的顺序，从一道JS面试题说起](https://www.cnblogs.com/zhansu/p/6641190.html)
 
 [总结了17年初到18年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
+[BAT前端经典面试问题：史上最最最详细的手写Promise教程](https://juejin.im/post/5b2f02cd5188252b937548ab)
  
 ## webpack && 打包原理
  
@@ -48,3 +49,6 @@
 
 ## Web Worker
 [Web Worker 使用教程](http://www.ruanyifeng.com/blog/2018/07/web-worker.html)
+
+# 网络
+[从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://juejin.im/post/5aa5cb846fb9a028e25d2fb1)

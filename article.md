@@ -36,6 +36,7 @@
 
 [总结了17年初到18年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
 [BAT前端经典面试问题：史上最最最详细的手写Promise教程](https://juejin.im/post/5b2f02cd5188252b937548ab)
+[新鲜出炉的八月面试高频题目](https://segmentfault.com/a/1190000015916686)
  
 ## webpack && 打包原理
  
